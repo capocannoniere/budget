@@ -1,0 +1,757 @@
+{
+    "caption": "Программа государственных внешних заимствований Российской Федерации на плановый период 2014 и 2015 годов", 
+    "subtable3": {
+        "caption": "Кредиты (займы) международных финансовых организаций в 2014 - 2015 годах (млн. долларов США)", 
+        "notes": [
+            "Примечание. Сумма займа ЕБРР номинирована в евро и может изменяться в зависимости от колебания курса евро по отношению к доллару США.", 
+            "Заполняется в случае наличия гарантии третьих лиц по возврату средств в федеральный бюджет конечным заемщиком, если для него предусмотрен такой возврат."
+        ], 
+        "items": [
+            {
+                "project_name": "ВСЕГО", 
+                "project_source": null, 
+                "purpose": null, 
+                "rz_no": null, 
+                "children": [
+                    {
+                        "project_name": "ОБЩЕГОСУДАРСТВЕННЫЕ ВОПРОСЫ", 
+                        "project_source": null, 
+                        "purpose": null, 
+                        "rz_no": "01", 
+                        "children": [
+                            {
+                                "project_name": "Обеспечение деятельности финансовых, налоговых и таможенных органов и органов финансового (финансово-бюджетного) надзора", 
+                                "project_source": null, 
+                                "purpose": null, 
+                                "rz_no": null, 
+                                "children": [
+                                    {
+                                        "project_name": "Проект \"Содействие совершенствованию системы государственных финансов Российской Федерации\"", 
+                                        "project_source": "МБРР", 
+                                        "purpose": "Повышение эффективности системы государственных и муниципальных финансов России путем расширения институциональных возможностей Министерства финансов Российской Федерации, федеральных органов исполнительной власти, органов исполнительной власти субъектов Российской Федерации и муниципальных образований", 
+                                        "rz_no": null, 
+                                        "children": [], 
+                                        "target": "Консультационные услуги, программные продукты", 
+                                        "receive_item": {
+                                            "name": "Министерство финансов Российской Федерации", 
+                                            "usage_2015": 15.0, 
+                                            "usage_2014": 12.7, 
+                                            "usage_before_2014": 7.5, 
+                                            "loan_sum": 50.0, 
+                                            "children": [], 
+                                            "return_date": null
+                                        }, 
+                                        "project_no": null, 
+                                        "note": null, 
+                                        "receive_children": [], 
+                                        "garants": []
+                                    }, 
+                                    {
+                                        "project_name": "Проект \"Развитие и повышение стабильности российского финансового рынка\"", 
+                                        "project_source": "МБРР", 
+                                        "purpose": "Развитие финансового рынка в Российской Федерации, повышение его конкурентоспособности и дальнейшее увеличение его роли в социально-экономическом развитии страны и росте благосостояния домохозяйств при обеспечении стабильности финансового рынка и его устойчивости к локальным и мировым кризисным явлениям, в том числе через реализацию рекомендаций по реформе регулирования финансовой системы в рамках процесса \"Группы двадцати\", повышение эффективности надзора в отношении профессиональных участников рынка ценных бумаг и страховых компаний", 
+                                        "rz_no": null, 
+                                        "children": [], 
+                                        "target": "Товары, технические услуги, консультационные услуги и финансирование подпроектов", 
+                                        "receive_item": {
+                                            "name": "Всего", 
+                                            "usage_2015": 5.3, 
+                                            "usage_2014": 5.3, 
+                                            "usage_before_2014": 18.4, 
+                                            "loan_sum": 50.0, 
+                                            "children": [
+                                                {
+                                                    "name": "Федеральная служба по финансовым рынкам", 
+                                                    "usage_2015": 4.0, 
+                                                    "usage_2014": 4.0, 
+                                                    "usage_before_2014": 17.1, 
+                                                    "loan_sum": 40.8, 
+                                                    "children": [], 
+                                                    "return_date": null
+                                                }, 
+                                                {
+                                                    "name": "Министерство финансов Российской Федерации", 
+                                                    "usage_2015": 1.3, 
+                                                    "usage_2014": 1.3, 
+                                                    "usage_before_2014": 1.3, 
+                                                    "loan_sum": 9.2, 
+                                                    "children": [], 
+                                                    "return_date": null
+                                                }
+                                            ], 
+                                            "return_date": null
+                                        }, 
+                                        "project_no": null, 
+                                        "note": null, 
+                                        "receive_children": [], 
+                                        "garants": []
+                                    }
+                                ], 
+                                "target": null, 
+                                "receive_item": {
+                                    "name": null, 
+                                    "usage_2015": 20.3, 
+                                    "usage_2014": 18.0, 
+                                    "usage_before_2014": 25.9, 
+                                    "loan_sum": 100.0, 
+                                    "children": [], 
+                                    "return_date": null
+                                }, 
+                                "project_no": null, 
+                                "note": null, 
+                                "receive_children": [], 
+                                "garants": []
+                            }, 
+                            {
+                                "project_name": "Другие общегосударственные вопросы", 
+                                "project_source": null, 
+                                "purpose": null, 
+                                "rz_no": null, 
+                                "children": [
+                                    {
+                                        "project_name": "Проект \"Содействие повышению уровня финансовой грамотности населения и развитию финансового образования в Российской Федерации\"", 
+                                        "project_source": "МБРР", 
+                                        "purpose": "Повышение финансовой грамотности граждан Российской Федерации и укрепление основы для совершенствования защиты прав потребителей на рынке финансовых услуг", 
+                                        "rz_no": null, 
+                                        "children": [], 
+                                        "target": "Товары, технические услуги, консультационные услуги и финансирование подпроектов", 
+                                        "receive_item": {
+                                            "name": "Министерство финансов Российской Федерации", 
+                                            "usage_2015": 5.2, 
+                                            "usage_2014": 6.9, 
+                                            "usage_before_2014": 10.3, 
+                                            "loan_sum": 25.0, 
+                                            "children": [], 
+                                            "return_date": "15 октября 2024 года"
+                                        }, 
+                                        "project_no": "№ 7983-0-RU", 
+                                        "note": null, 
+                                        "receive_children": [], 
+                                        "garants": []
+                                    }, 
+                                    {
+                                        "project_name": "Проект \"Развитие инфраструктуры рынка микрофинансирования в Российской Федерации\"", 
+                                        "project_source": "МБРР", 
+                                        "purpose": "Расширение возможностей доступа к финансовым услугам микропредприятий и населения в удаленных местностях", 
+                                        "rz_no": null, 
+                                        "children": [], 
+                                        "target": "Консультационные услуги, оборудование, программное обеспечение, обучение", 
+                                        "receive_item": {
+                                            "name": "Министерство финансов Российской Федерации", 
+                                            "usage_2015": 4.8, 
+                                            "usage_2014": 4.8, 
+                                            "usage_before_2014": 4.8, 
+                                            "loan_sum": 20.0, 
+                                            "children": [], 
+                                            "return_date": null
+                                        }, 
+                                        "project_no": null, 
+                                        "note": null, 
+                                        "receive_children": [], 
+                                        "garants": []
+                                    }, 
+                                    {
+                                        "project_name": "Проект \"Модернизация и техническое перевооружение учреждений и организаций Росгидромета-2\"", 
+                                        "project_source": "МБРР", 
+                                        "purpose": "Обеспечение потребностей государства в качественной и своевременной гидрометеорологической, гелиогеофизической информации и информации о состоянии окружающей среды, а также выполнение обязательств Российской Федерации по международному обмену данными", 
+                                        "rz_no": null, 
+                                        "children": [], 
+                                        "target": "Вычислительная техника, гидрометеорологическое оборудование, научно-исследовательские работы, консультационные услуги", 
+                                        "receive_item": {
+                                            "name": "Федеральная служба по гидрометеорологии и мониторингу окружающей среды", 
+                                            "usage_2015": 15.2, 
+                                            "usage_2014": 5.7, 
+                                            "usage_before_2014": 1.1, 
+                                            "loan_sum": 60.0, 
+                                            "children": [], 
+                                            "return_date": null
+                                        }, 
+                                        "project_no": null, 
+                                        "note": null, 
+                                        "receive_children": [], 
+                                        "garants": []
+                                    }, 
+                                    {
+                                        "project_name": "Проект \"Поддержка судебной реформы\"", 
+                                        "project_source": "МБРР", 
+                                        "purpose": "Совершенствование функционирования российской судебной системы и повышение ее эффективности", 
+                                        "rz_no": null, 
+                                        "children": [], 
+                                        "target": "Консультационные услуги, научно-исследовательские работы, компьютеры и программное обеспечение, обучение", 
+                                        "receive_item": {
+                                            "name": "Министерство экономического развития Российской Федерации", 
+                                            "usage_2015": 0.0, 
+                                            "usage_2014": 2.6, 
+                                            "usage_before_2014": 47.4, 
+                                            "loan_sum": 50.0, 
+                                            "children": [], 
+                                            "return_date": "15 ноября 2021 года"
+                                        }, 
+                                        "project_no": "№ 4849-0-RU", 
+                                        "note": null, 
+                                        "receive_children": [], 
+                                        "garants": []
+                                    }, 
+                                    {
+                                        "project_name": "Проект \"Содействие созданию и развитию особых экономических зон в Российской Федерации\"", 
+                                        "project_source": "МБРР", 
+                                        "purpose": "Развитие научного и промышленного потенциала страны и привлечение инвестиций посредством создания и развития особых экономических зон", 
+                                        "rz_no": null, 
+                                        "children": [], 
+                                        "target": "Научное оборудование, вычислительная техника, консультационные услуги, обучение", 
+                                        "receive_item": {
+                                            "name": "Министерство экономического развития Российской Федерации", 
+                                            "usage_2015": 9.5, 
+                                            "usage_2014": 3.8, 
+                                            "usage_before_2014": 0.3, 
+                                            "loan_sum": 50.0, 
+                                            "children": [], 
+                                            "return_date": null
+                                        }, 
+                                        "project_no": null, 
+                                        "note": null, 
+                                        "receive_children": [], 
+                                        "garants": []
+                                    }, 
+                                    {
+                                        "project_name": "Проект \"Развитие системы государственной статистики-2\" № 4867-0-RU", 
+                                        "project_source": "МБРР", 
+                                        "purpose": "Модернизация системы государственной статистики в России на основе реализации международных стандартов в области методологии и технологии сбора, формирования и распространения статистических данных", 
+                                        "rz_no": null, 
+                                        "children": [], 
+                                        "target": "Консультационные услуги, оборудование, программное обеспечение, обучение", 
+                                        "receive_item": {
+                                            "name": "Федеральная служба государственной статистики", 
+                                            "usage_2015": 0.0, 
+                                            "usage_2014": 0.7, 
+                                            "usage_before_2014": 9.2, 
+                                            "loan_sum": 10.0, 
+                                            "children": [], 
+                                            "return_date": "15 мая 2022 года"
+                                        }, 
+                                        "project_no": null, 
+                                        "note": "Заем привлекается при условии повышенной доли финансирования проекта из федерального бюджета.", 
+                                        "receive_children": [], 
+                                        "garants": []
+                                    }, 
+                                    {
+                                        "project_name": "Проект \"Развитие единой государственной системы экологического мониторинга\"", 
+                                        "project_source": "МБРР", 
+                                        "purpose": "Повышение эффективности государственного экологического мониторинга на основе внедрения международных стандартов в области экологического мониторинга и интегрирования в единую информационно-аналитическую систему существующих подсистем государственного экологического мониторинга и их развитие", 
+                                        "rz_no": null, 
+                                        "children": [], 
+                                        "target": "Консультационные услуги, оборудование", 
+                                        "receive_item": {
+                                            "name": "Министерство природных ресурсов и экологии Российской Федерации", 
+                                            "usage_2015": 8.6, 
+                                            "usage_2014": 5.7, 
+                                            "usage_before_2014": 3.0, 
+                                            "loan_sum": 50.0, 
+                                            "children": [], 
+                                            "return_date": null
+                                        }, 
+                                        "project_no": null, 
+                                        "note": null, 
+                                        "receive_children": [], 
+                                        "garants": []
+                                    }
+                                ], 
+                                "target": null, 
+                                "receive_item": {
+                                    "name": null, 
+                                    "usage_2015": 81.3, 
+                                    "usage_2014": 68.1, 
+                                    "usage_before_2014": 114.1, 
+                                    "loan_sum": 385.0, 
+                                    "children": [], 
+                                    "return_date": null
+                                }, 
+                                "project_no": null, 
+                                "note": null, 
+                                "receive_children": [], 
+                                "garants": []
+                            }, 
+                            {
+                                "project_name": "Иные заимствования у международных финансовых организаций (статья 108 Бюджетного кодекса Российской Федерации)", 
+                                "project_source": null, 
+                                "purpose": null, 
+                                "rz_no": null, 
+                                "children": [], 
+                                "target": null, 
+                                "receive_item": {
+                                    "name": null, 
+                                    "usage_2015": 38.0, 
+                                    "usage_2014": 37.9, 
+                                    "usage_before_2014": 38.0, 
+                                    "loan_sum": 120.0, 
+                                    "children": [], 
+                                    "return_date": null
+                                }, 
+                                "project_no": null, 
+                                "note": null, 
+                                "receive_children": [], 
+                                "garants": []
+                            }
+                        ], 
+                        "target": null, 
+                        "receive_item": {
+                            "name": null, 
+                            "usage_2015": 101.6, 
+                            "usage_2014": 86.1, 
+                            "usage_before_2014": 140.0, 
+                            "loan_sum": 485.0, 
+                            "children": [], 
+                            "return_date": null
+                        }, 
+                        "project_no": null, 
+                        "note": null, 
+                        "receive_children": [], 
+                        "garants": []
+                    }, 
+                    {
+                        "project_name": "НАЦИОНАЛЬНАЯ ЭКОНОМИКА", 
+                        "project_source": null, 
+                        "purpose": null, 
+                        "rz_no": "04", 
+                        "children": [
+                            {
+                                "project_name": "Лесное хозяйство", 
+                                "project_source": null, 
+                                "purpose": null, 
+                                "rz_no": null, 
+                                "children": [
+                                    {
+                                        "project_name": "Проект \"Реформирование лесоуправления и меры по борьбе с лесными пожарами в России. Лесной проект-2\"", 
+                                        "project_source": "МБРР", 
+                                        "purpose": "Совершенствование системы лесоуправления, создание условий для непрерывного, рационального использования лесов, внедрение инновационных подходов к реформированию лесного хозяйства", 
+                                        "rz_no": null, 
+                                        "children": [], 
+                                        "target": "Техника, технические услуги и консультационные услуги", 
+                                        "receive_item": {
+                                            "name": "Всего", 
+                                            "usage_2015": 8.8, 
+                                            "usage_2014": 10.1, 
+                                            "usage_before_2014": 3.6, 
+                                            "loan_sum": 40.0, 
+                                            "children": [
+                                                {
+                                                    "name": "Федеральное агентство лесного хозяйства", 
+                                                    "usage_2015": 6.7, 
+                                                    "usage_2014": 7.1, 
+                                                    "usage_before_2014": 3.3, 
+                                                    "loan_sum": 33.0, 
+                                                    "children": [], 
+                                                    "return_date": null
+                                                }, 
+                                                {
+                                                    "name": "Министерство природных ресурсов и экологии Российской Федерации", 
+                                                    "usage_2015": 2.1, 
+                                                    "usage_2014": 3.0, 
+                                                    "usage_before_2014": 0.3, 
+                                                    "loan_sum": 7.0, 
+                                                    "children": [], 
+                                                    "return_date": null
+                                                }
+                                            ], 
+                                            "return_date": null
+                                        }, 
+                                        "project_no": null, 
+                                        "note": null, 
+                                        "receive_children": [], 
+                                        "garants": []
+                                    }
+                                ], 
+                                "target": null, 
+                                "receive_item": {
+                                    "name": null, 
+                                    "usage_2015": 8.8, 
+                                    "usage_2014": 10.1, 
+                                    "usage_before_2014": 3.6, 
+                                    "loan_sum": 40.0, 
+                                    "children": [], 
+                                    "return_date": null
+                                }, 
+                                "project_no": null, 
+                                "note": null, 
+                                "receive_children": [], 
+                                "garants": []
+                            }, 
+                            {
+                                "project_name": "Другие вопросы в области национальной экономики", 
+                                "project_source": null, 
+                                "purpose": null, 
+                                "rz_no": null, 
+                                "children": [
+                                    {
+                                        "project_name": "Проект \"Развитие системы государственной регистрации прав на недвижимость\"", 
+                                        "project_source": "МБРР", 
+                                        "purpose": "Совершенствование и модернизация существующих систем учета и регистрации прав на недвижимость, улучшение обслуживания граждан, рост капитализации недвижимости", 
+                                        "rz_no": null, 
+                                        "children": [], 
+                                        "target": "Вычислительная техника, оборудование, технологии, консультационные услуги", 
+                                        "receive_item": {
+                                            "name": "Федеральная служба государственной регистрации, кадастра и картографии", 
+                                            "usage_2015": 0.0, 
+                                            "usage_2014": 6.9, 
+                                            "usage_before_2014": 41.6, 
+                                            "loan_sum": 50.0, 
+                                            "children": [], 
+                                            "return_date": "15 мая 2023 года"
+                                        }, 
+                                        "project_no": "№ 4826-0-RU", 
+                                        "note": "Суммы займов подлежат уменьшению в связи с возможным увеличением объемов российского софинансирования проектов.", 
+                                        "receive_children": [], 
+                                        "garants": []
+                                    }
+                                ], 
+                                "target": null, 
+                                "receive_item": {
+                                    "name": null, 
+                                    "usage_2015": 0.0, 
+                                    "usage_2014": 6.9, 
+                                    "usage_before_2014": 41.6, 
+                                    "loan_sum": 50.0, 
+                                    "children": [], 
+                                    "return_date": null
+                                }, 
+                                "project_no": null, 
+                                "note": null, 
+                                "receive_children": [], 
+                                "garants": []
+                            }
+                        ], 
+                        "target": null, 
+                        "receive_item": {
+                            "name": null, 
+                            "usage_2015": 8.8, 
+                            "usage_2014": 17.0, 
+                            "usage_before_2014": 45.2, 
+                            "loan_sum": 90.0, 
+                            "children": [], 
+                            "return_date": null
+                        }, 
+                        "project_no": null, 
+                        "note": null, 
+                        "receive_children": [], 
+                        "garants": []
+                    }, 
+                    {
+                        "project_name": "ЖИЛИЩНО-КОММУНАЛЬНОЕ хозяйство", 
+                        "project_source": null, 
+                        "purpose": null, 
+                        "rz_no": "05", 
+                        "children": [
+                            {
+                                "project_name": "Другие вопросы в области жилищно-коммунального хозяйства", 
+                                "project_source": null, 
+                                "purpose": null, 
+                                "rz_no": null, 
+                                "children": [
+                                    {
+                                        "project_name": "Проект \"Реформа жилищно-коммунального хозяйства в России\"", 
+                                        "project_source": "МБРР", 
+                                        "purpose": "Содействие осуществлению реформы жилищно-коммунального хозяйства", 
+                                        "rz_no": null, 
+                                        "children": [], 
+                                        "target": "Строительные работы, консультационные услуги, оборудование", 
+                                        "receive_item": {
+                                            "name": "Федеральное агентство по строительству и жилищно-коммунальному хозяйству", 
+                                            "usage_2015": 0.0, 
+                                            "usage_2014": 34.0, 
+                                            "usage_before_2014": 159.0, 
+                                            "loan_sum": 200.0, 
+                                            "children": [], 
+                                            "return_date": "15 декабря 2022 года"
+                                        }, 
+                                        "project_no": "№ 4888-0-RU", 
+                                        "note": "Суммы займов подлежат уменьшению в связи с возможным увеличением объемов российского софинансирования проектов.", 
+                                        "receive_children": [], 
+                                        "garants": []
+                                    }
+                                ], 
+                                "target": null, 
+                                "receive_item": {
+                                    "name": null, 
+                                    "usage_2015": 0.0, 
+                                    "usage_2014": 34.0, 
+                                    "usage_before_2014": 159.0, 
+                                    "loan_sum": 200.0, 
+                                    "children": [], 
+                                    "return_date": null
+                                }, 
+                                "project_no": null, 
+                                "note": null, 
+                                "receive_children": [], 
+                                "garants": []
+                            }
+                        ], 
+                        "target": null, 
+                        "receive_item": {
+                            "name": null, 
+                            "usage_2015": 0.0, 
+                            "usage_2014": 34.0, 
+                            "usage_before_2014": 159.0, 
+                            "loan_sum": 200.0, 
+                            "children": [], 
+                            "return_date": null
+                        }, 
+                        "project_no": null, 
+                        "note": null, 
+                        "receive_children": [], 
+                        "garants": []
+                    }, 
+                    {
+                        "project_name": "КУЛЬТУРА, КИНЕМАТОГРАФИЯ", 
+                        "project_source": null, 
+                        "purpose": null, 
+                        "rz_no": "08", 
+                        "children": [
+                            {
+                                "project_name": "Другие вопросы в области культуры, кинематографии", 
+                                "project_source": null, 
+                                "purpose": null, 
+                                "rz_no": null, 
+                                "children": [
+                                    {
+                                        "project_name": "Проект \"Сохранение и использование культурного наследия в России\"", 
+                                        "project_source": "МБРР", 
+                                        "purpose": "Осуществление инвестиций в объекты культурного наследия регионов Российской Федерации", 
+                                        "rz_no": null, 
+                                        "children": [], 
+                                        "target": "Строительные работы, консультационные услуги, оборудование", 
+                                        "receive_item": {
+                                            "name": "Министерство культуры Российской Федерации", 
+                                            "usage_2015": 21.9, 
+                                            "usage_2014": 27.0, 
+                                            "usage_before_2014": 35.4, 
+                                            "loan_sum": 100.0, 
+                                            "children": [], 
+                                            "return_date": "15 октября 2027 года"
+                                        }, 
+                                        "project_no": "№ 7999-0-RU", 
+                                        "note": null, 
+                                        "receive_children": [], 
+                                        "garants": []
+                                    }
+                                ], 
+                                "target": null, 
+                                "receive_item": {
+                                    "name": null, 
+                                    "usage_2015": 21.9, 
+                                    "usage_2014": 27.0, 
+                                    "usage_before_2014": 35.4, 
+                                    "loan_sum": 100.0, 
+                                    "children": [], 
+                                    "return_date": null
+                                }, 
+                                "project_no": null, 
+                                "note": null, 
+                                "receive_children": [], 
+                                "garants": []
+                            }
+                        ], 
+                        "target": null, 
+                        "receive_item": {
+                            "name": null, 
+                            "usage_2015": 21.9, 
+                            "usage_2014": 27.0, 
+                            "usage_before_2014": 35.4, 
+                            "loan_sum": 100.0, 
+                            "children": [], 
+                            "return_date": null
+                        }, 
+                        "project_no": null, 
+                        "note": null, 
+                        "receive_children": [], 
+                        "garants": []
+                    }, 
+                    {
+                        "project_name": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ", 
+                        "project_source": null, 
+                        "purpose": null, 
+                        "rz_no": "11", 
+                        "children": [
+                            {
+                                "project_name": "Массовый спорт", 
+                                "project_source": null, 
+                                "purpose": null, 
+                                "rz_no": null, 
+                                "children": [
+                                    {
+                                        "project_name": "Проект \"Вовлечение в регулярные занятия физической культурой и спортом социально незащищенных слоев населения", 
+                                        "project_source": "МБРР", 
+                                        "purpose": "Вовлечение в регулярные занятия физической культурой и спортом социально незащищенных слоев населения\"", 
+                                        "rz_no": null, 
+                                        "children": [], 
+                                        "target": "Строительные работы, консультационные услуги, оборудование", 
+                                        "receive_item": {
+                                            "name": "Министерство спорта Российской Федерации", 
+                                            "usage_2015": 36.1, 
+                                            "usage_2014": 20.6, 
+                                            "usage_before_2014": 7.9, 
+                                            "loan_sum": 70.0, 
+                                            "children": [], 
+                                            "return_date": null
+                                        }, 
+                                        "project_no": null, 
+                                        "note": null, 
+                                        "receive_children": [], 
+                                        "garants": []
+                                    }
+                                ], 
+                                "target": null, 
+                                "receive_item": {
+                                    "name": null, 
+                                    "usage_2015": 36.1, 
+                                    "usage_2014": 20.6, 
+                                    "usage_before_2014": 7.9, 
+                                    "loan_sum": 70.0, 
+                                    "children": [], 
+                                    "return_date": null
+                                }, 
+                                "project_no": null, 
+                                "note": null, 
+                                "receive_children": [], 
+                                "garants": []
+                            }
+                        ], 
+                        "target": null, 
+                        "receive_item": {
+                            "name": null, 
+                            "usage_2015": 36.1, 
+                            "usage_2014": 20.6, 
+                            "usage_before_2014": 7.9, 
+                            "loan_sum": 70.0, 
+                            "children": [], 
+                            "return_date": null
+                        }, 
+                        "project_no": null, 
+                        "note": null, 
+                        "receive_children": [], 
+                        "garants": []
+                    }, 
+                    {
+                        "project_name": "000 01 06 07 00 01 0000 540 ПРЕДОСТАВЛЕНИЕ БЮДЖЕТНЫХ КРЕДИТОВ ФЕДЕРАЛЬНЫМ БЮДЖЕТОМ ВНУТРИ СТРАНЫ ЗА СЧЕТ СРЕДСТВ ЦЕЛЕВЫХ ИНОСТРАННЫХ КРЕДИТОВ (ЗАИМСТВОВАНИИ)", 
+                        "project_source": null, 
+                        "purpose": null, 
+                        "rz_no": null, 
+                        "children": [
+                            {
+                                "project_name": "Проект \"Реконструкция системы водоснабжения и охрана окружающей среды г. Калининграда (компонент централизованного теплоснабжения)\"", 
+                                "project_source": "ЕБРР", 
+                                "purpose": "Реконструкция системы теплоснабжения г. Калининграда", 
+                                "rz_no": null, 
+                                "children": [], 
+                                "target": "Оборудование, строительные работы, консультационные услуги", 
+                                "receive_item": {
+                                    "name": "МУП \"Калининградтеплосеть\" г. Калининграда", 
+                                    "usage_2015": 0.0, 
+                                    "usage_2014": 1.4, 
+                                    "usage_before_2014": 13.6, 
+                                    "loan_sum": 15.0, 
+                                    "children": [], 
+                                    "return_date": "18 февраля 2024 года"
+                                }, 
+                                "project_no": "№ 37966", 
+                                "note": null, 
+                                "receive_children": [], 
+                                "garants": [
+                                    "Правительство Калининградской области", 
+                                    "Администрация городского округа \"Город Калининград\""
+                                ]
+                            }
+                        ], 
+                        "target": null, 
+                        "receive_item": {
+                            "name": null, 
+                            "usage_2015": 0.0, 
+                            "usage_2014": 1.4, 
+                            "usage_before_2014": 13.6, 
+                            "loan_sum": 15.0, 
+                            "children": [], 
+                            "return_date": null
+                        }, 
+                        "project_no": null, 
+                        "note": null, 
+                        "receive_children": [], 
+                        "garants": []
+                    }
+                ], 
+                "target": null, 
+                "receive_item": {
+                    "name": null, 
+                    "usage_2015": 168.4, 
+                    "usage_2014": 186.1, 
+                    "usage_before_2014": 401.1, 
+                    "loan_sum": 960.0, 
+                    "children": [], 
+                    "return_date": null
+                }, 
+                "project_no": null, 
+                "note": null, 
+                "receive_children": [], 
+                "garants": []
+            }
+        ], 
+        "headers": [
+            "№ раздела классификации расходов бюджета", 
+            "Наименование и номер проекта, источник привлечения заимствования", 
+            "Цель заимствования", 
+            "Направления использования кредитов (займов)", 
+            "Получатели средств, дата погашения основного долга", 
+            "Сумма заимствования", 
+            "Использование до 1 января 2014 года (оценка)", 
+            "Использование в 2014 году (прогноз)", 
+            "Использование в 2015 году (прогноз)", 
+            "Организация (орган), предоставившая гарантию"
+        ]
+    }, 
+    "subtable2": {
+        "caption": "Несвязанные (финансовые) заимствования Российской Федерации в 2014 и 2015 годах (млн. долларов США)", 
+        "items": [
+            {
+                "period2014": "До 30 лет", 
+                "period2015": "До 30 лет", 
+                "value2015": "7 000,0", 
+                "value2014": "7 000,0", 
+                "name": "Государственные ценные бумаги, номинальная стоимость которых указана в иностранной валюте", 
+                "source2014": "Международные рынки капитала", 
+                "source2015": "Международные рынки капитала"
+            }
+        ], 
+        "headers": [
+            "Наименование", 
+            "2014 год: Источник привлечения", 
+            "2014 год: Сумма заимствования", 
+            "2014 год: Срок погашения", 
+            "2015 год: Источник привлечения", 
+            "2015 год: Сумма заимствования", 
+            "2015 год: Срок погашения"
+        ]
+    }, 
+    "subtable1": {
+        "caption": "Государственные внешние заимствования Российской Федерации на 2014 и 2015 годы (млн. долларов США)", 
+        "items": [
+            {
+                "value2015": 3715.9, 
+                "value2014": 5705.4, 
+                "name": "Государственные ценные бумаги, номинальная стоимость которых указана в иностранной валюте"
+            }, 
+            {
+                "value2015": -515.1, 
+                "value2014": -709.5, 
+                "name": "Кредиты иностранных государств, включая целевые иностранные кредиты (заимствования), международных финансовых организаций, иных субъектов международного права, иностранных юридических лиц"
+            }, 
+            {
+                "value2015": 3200.8, 
+                "value2014": 4995.9, 
+                "name": "Всего"
+            }
+        ], 
+        "headers": [
+            "Вид заимствования", 
+            "Сумма: 2014 год", 
+            "Сумма: 2015 год"
+        ]
+    }
+}
